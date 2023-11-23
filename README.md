@@ -1,2 +1,2 @@
 # Git_Course
-git course
+Git Course
